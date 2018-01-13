@@ -1,2 +1,3 @@
 name: Batkuip's technical blog
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
