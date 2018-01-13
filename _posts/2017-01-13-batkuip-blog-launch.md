@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Batkuip blog launch!"
+title: "Batkuip blog launch"
 date: 2018-01-13
 ---
 
